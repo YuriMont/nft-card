@@ -1,8 +1,6 @@
 # Frontend Mentor - NFT preview card component
 
-<img src="./design/desktop-design.jpg" alt=""/>
-
-![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the NFT preview card component coding challenge](./design/desktop-design.jpg)
 
 ## Welcome! 👋
 
@@ -35,6 +33,6 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-[View this project]()
+[View this project](https://yurimont.github.io/nft-card/)
 
 **Have fun building!** 🚀
